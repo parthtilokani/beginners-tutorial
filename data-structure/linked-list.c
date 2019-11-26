@@ -3,7 +3,7 @@
 
 #include <stdio.h>
 #include <stdlib.h>
-
+// node of linked list
 struct node{
 	int info;
 	struct node *next;
